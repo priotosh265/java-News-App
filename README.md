@@ -12,6 +12,3 @@
 2. LayoutLayout - parent layout that aligns all the children layouts in a vertical or horizontal direction
 3. HorizontalScrollView - provides the functionality of a horizontal scroll view
 
-🧑🏻‍💻 Used the Google Pixel 5 API 29 Emulator
-
-https://github.com/iLakshya/News-App-Android-Development/assets/91900978/ea41c311-814c-4e0b-846d-daf41fe52352
